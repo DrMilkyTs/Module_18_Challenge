@@ -94,15 +94,3 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 ## The picture above shows part 4 and 5 of step 4!
 
 
----
-## Submission
-
-You’ll upload the Python file for this assignment to your GitHub repository.
-
-* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
